@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Extended Fuel Pod">
+ <general>
+  <typename>Fuel Expansion</typename>
+  <slot>structure</slot>
+  <size>medium</size>
+  <mass>12</mass>
+  <price>150000</price>
+  <description>The extended fuel pod allows larger ships to store more fuel for extended trips through hyperspace.</description>
+  <gfx_store>fuel_pod</gfx_store>
+ </general>
+ <specific type="modification">
+  <fuel>400</fuel>
+ </specific>
+</outfit>
