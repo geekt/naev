@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Unicorp Sensor Array">
+ <general>
+  <slot>utility</slot>
+  <size>small</size>
+  <mass>3</mass>
+  <price>150000</price>
+  <description>This improved sensor array from Unicorp ensures that you never have to worry about finding your destination in a strange system. Designed and built for couriers, it is sure to be just what you need to find what you need.</description>
+  <gfx_store>jammer0</gfx_store>
+  <cpu>-1</cpu>
+ </general>
+ <specific type="modification">
+  <energy_regen_flat>-12</energy_regen_flat>
+  <ew_detect>40</ew_detect>
+  <ew_jump_detect>90</ew_jump_detect>
+ </specific>
+</outfit>
