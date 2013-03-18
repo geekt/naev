@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Biometal Reinforced Large War Hull">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="hull">structure</slot>
+  <size>large</size>
+  <mass>2400</mass>
+  <price>1600000</price>
+  <description>Perhaps the best hull on the market for capital war ships, the Biometal Reinforced Large War Hull is built to endure prolonged sustained fire, and recover to endure more battering before leaving combat.</description>
+  <gfx_store>biometal</gfx_store>
+ </general>
+ <specific type="modification">
+  <cargo>50</cargo>
+  <absorb>36</absorb>
+  <armour>3360</armour>
+  <armour_regen>1.0</armour_regen>
+  <ew_hide>0</ew_hide>
+ </specific>
+</outfit>

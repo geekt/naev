@@ -234,6 +234,8 @@
   <item>Schafer &amp; Kane Light Combat Plating</item>
   <item>Schafer &amp; Kane Light Stealth Plating</item>
   <item>Schafer &amp; Kane Small Cargo Hull</item>
+  <item>Biometal Reinforced Small Combat Hull</item>
+  <item>Biometal Reinforced Small Cargo Hull</item>
   <item>Patchwork Medium Plating</item>
   <item>Unmodified Medium Hull</item>
   <item>Unicorp D-8 Medium Plating</item>
@@ -245,6 +247,9 @@
   <item>Schafer &amp; Kane Medium Stealth Plating</item>
   <item>Schafer &amp; Kane Medium Combat Plating Gamma</item>
   <item>Schafer &amp; Kane Medium Solar Plating</item>
+  <item>Biometal Reinforced Medium Combat Hull</item>
+  <item>Biometal Reinforced Medium War Hull</item>
+  <item>Biometal Reinforced Medium Cargo Hull</item>
   <item>Patchwork Heavy Plating</item>
   <item>Unmodified Large Hull</item>
   <item>Unicorp D-16 Heavy Plating</item>
@@ -258,6 +263,9 @@
   <item>Schafer &amp; Kane Heavy Solar Plating</item>
   <item>Schafer &amp; Kane Heavy Dissipation Plating</item>
   <item>Schafer &amp; Kane Superheavy Combat Plating</item>
+  <item>Biometal Reinforced Large Combat Hull</item>
+  <item>Biometal Reinforced Large War Hull</item>
+  <item>Biometal Reinforced Large Cargo Hull</item>
  </tech>
  <tech name="All Ships">
   <item>Llama</item>
@@ -822,12 +830,20 @@
  </tech>
  <tech name="Hulls Elite">
   <item>Schafer &amp; Kane Light Stealth Plating</item>
+  <item>Biometal Reinforced Small Combat Hull</item>
+  <item>Biometal Reinforced Small Cargo Hull</item>
   <item>Schafer &amp; Kane Medium Combat Plating Gamma</item>
   <item>Schafer &amp; Kane Medium Solar Plating</item>
+  <item>Biometal Reinforced Medium Combat Hull</item>
+  <item>Biometal Reinforced Medium War Hull</item>
+  <item>Biometal Reinforced Medium Cargo Hull</item>
   <item>Schafer &amp; Kane Heavy Combat Plating Gamma</item>
   <item>Schafer &amp; Kane Heavy Solar Plating</item>
   <item>Schafer &amp; Kane Heavy Dissipation Plating</item>
   <item>Schafer &amp; Kane Superheavy Combat Plating</item>
+  <item>Biometal Reinforced Large Combat Hull</item>
+  <item>Biometal Reinforced Large War Hull</item>
+  <item>Biometal Reinforced Large Cargo Hull</item>
  </tech>
  <tech name="Pirate Maps">
   <item>Map: Pirate worlds</item>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Biometal Reinforced Medium War Hull">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="hull">structure</slot>
+  <size>medium</size>
+  <mass>240</mass>
+  <price>1500000</price>
+  <description>Even stronger than the combat hull configuration, the Biometal Reinforced Medium War Hull is designed to withstand more than simple skirmishes. Pilots have a saying about this reinforced hull, "If you can make it out of the battle, you can make it out of the war."</description>
+  <gfx_store>biometal</gfx_store>
+ </general>
+ <specific type="modification">
+  <cargo>15</cargo>
+  <absorb>17</absorb>
+  <armour>600</armour>
+  <armour_regen>1.0</armour_regen>
+  <ew_hide>0</ew_hide>
+ </specific>
+</outfit>

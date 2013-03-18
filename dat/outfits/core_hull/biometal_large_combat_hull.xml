@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Biometal Reinforced Large Combat Hull">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="hull">structure</slot>
+  <size>large</size>
+  <mass>1320</mass>
+  <price>12000000</price>
+  <description>While considerably expensive, the Biometal Reinforced Large Combat Hull is sure to pay for itself, with your life.</description>
+  <gfx_store>biometal</gfx_store>
+ </general>
+ <specific type="modification">
+  <cargo>50</cargo>
+  <absorb>28</absorb>
+  <armour>2280</armour>
+  <armour_regen>1.0</armour_regen>
+  <ew_hide>0</ew_hide>
+ </specific>
+</outfit>

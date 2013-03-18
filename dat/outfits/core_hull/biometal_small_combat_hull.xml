@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Biometal Reinforced Small Combat Hull">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="hull">structure</slot>
+  <size>small</size>
+  <mass>48</mass>
+  <price>250000</price>
+  <description>This hull provides protection from light weapons fire, and has been reinforced with self-repairing Biometal Armour to help prolong the periods between repairs. Unfortunately it is far more expensive than other varieties of hulls.</description>
+  <gfx_store>biometal</gfx_store>
+ </general>
+ <specific type="modification">
+  <cargo>10</cargo>
+  <absorb>5</absorb>
+  <armour>108</armour>
+  <armour_regen>1.0</armour_regen>
+  <ew_hide>0</ew_hide>
+ </specific>
+</outfit>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Biometal Reinforced Small Cargo Hull">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="hull">structure</slot>
+  <size>small</size>
+  <mass>48</mass>
+  <price>150000</price>
+  <description>While only slightly stronger than a standard hull, this Biometal Reinforced Small Cargo Hull's self repairing capability helps to alleviate the need to stop during cargo runs just because of a small run in with pirates.</description>
+  <gfx_store>biometal</gfx_store>
+ </general>
+ <specific type="modification">
+  <cargo>20</cargo>
+  <absorb>0</absorb>
+  <armour>60</armour>
+  <armour_regen>1.0</armour_regen>
+  <ew_hide>0</ew_hide>
+ </specific>
+</outfit>

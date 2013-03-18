@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Biometal Reinforced Large Cargo Hull">
+ <general>
+  <typename>Core Systems</typename>
+  <slot prop="hull">structure</slot>
+  <size>large</size>
+  <mass>1560</mass>
+  <price>9000000</price>
+  <description>If you need to take a large shipment through dangerous space, there's no better choice than Biometal.</description>
+  <gfx_store>biometal</gfx_store>
+ </general>
+ <specific type="modification">
+  <cargo>200</cargo>
+  <absorb>25</absorb>
+  <armour>1680</armour>
+  <armour_regen>1.0</armour_regen>
+  <ew_hide>0</ew_hide>
+ </specific>
+</outfit>
