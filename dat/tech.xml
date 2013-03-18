@@ -234,6 +234,7 @@
   <item>Schafer &amp; Kane Light Combat Plating</item>
   <item>Schafer &amp; Kane Light Stealth Plating</item>
   <item>Schafer &amp; Kane Small Cargo Hull</item>
+  <item>Light Fighter Plating</item>
   <item>Biometal Reinforced Small Combat Hull</item>
   <item>Biometal Reinforced Small Cargo Hull</item>
   <item>Patchwork Medium Plating</item>
@@ -830,6 +831,7 @@
  </tech>
  <tech name="Hulls Elite">
   <item>Schafer &amp; Kane Light Stealth Plating</item>
+  <item>Light Fighter Plating</item>
   <item>Biometal Reinforced Small Combat Hull</item>
   <item>Biometal Reinforced Small Cargo Hull</item>
   <item>Schafer &amp; Kane Medium Combat Plating Gamma</item>
